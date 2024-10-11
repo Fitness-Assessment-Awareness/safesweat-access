@@ -10,5 +10,7 @@
     "editor.formatOnSaveMode": "file",
     "editor.linkedEditing": true,
     "editor.rulers": [120],
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "appService.defaultWebAppToDeploy": "/subscriptions/00ea6119-1f39-4184-8ebc-eb02a96c10bc/resourceGroups/safesweat-access_group/providers/Microsoft.Web/sites/safesweat-access",
+    "appService.deploySubpath": "dist"
 }
